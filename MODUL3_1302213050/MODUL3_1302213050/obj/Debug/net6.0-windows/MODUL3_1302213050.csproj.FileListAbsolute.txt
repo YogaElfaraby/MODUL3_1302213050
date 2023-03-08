@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\bin\Debug\net6.0-windows\MODUL3_1302213050.exe
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\bin\Debug\net6.0-windows\MODUL3_1302213050.deps.json
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\bin\Debug\net6.0-windows\MODUL3_1302213050.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\bin\Debug\net6.0-windows\MODUL3_1302213050.dll
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\bin\Debug\net6.0-windows\MODUL3_1302213050.pdb
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.Form1.resources
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.dll
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\refint\MODUL3_1302213050.dll
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.pdb
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\MODUL3_1302213050.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\Modul 3\MODUL3_1302213050\MODUL3_1302213050\obj\Debug\net6.0-windows\ref\MODUL3_1302213050.dll
